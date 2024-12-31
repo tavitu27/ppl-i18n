@@ -5,7 +5,7 @@
 #. "In Eskiv, score 10000 or more"
 #: /client/application/account/achievements_description.cpp:17
 msgid "In %1$s, score %2$s or more."
-msgstr ""
+msgstr "Pe %1$s, atinge %2$s scor sau mai mult"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
@@ -123,7 +123,7 @@ msgstr "„Acest nivel este o glumă nu?” - un tester"
 #. Short description of the "ceasefire" game mode
 #: /client/application/game/levels/game_levels.cpp:206
 msgid "Evolution of Pacifism"
-msgstr ""
+msgstr "Evoluția lui Pacifism"
 
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:224
@@ -133,7 +133,7 @@ msgstr ""
 #. Short description of the "pandemonium" game mode
 #: /client/application/game/levels/game_levels.cpp:226
 msgid "With great firepower comes great dodging skills"
-msgstr ""
+msgstr "Cu mare putere de tras vin abilitați bune de ferire"
 
 #. Short description of the "partitioner" game mode
 #: /client/application/game/levels/game_levels.cpp:244
@@ -143,7 +143,7 @@ msgstr ""
 #. Short description of the symbiosis game mode
 #: /client/application/game/levels/game_levels.cpp:262
 msgid "2 brain hemispheres, 2 hands, 2 ships."
-msgstr ""
+msgstr "2 emisfere ale creierului, 2 mâini, 2 nave."
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:14
@@ -153,7 +153,7 @@ msgstr "Medalie de bronz nouă"
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:16
 msgid "New bronze speedrun medal"
-msgstr ""
+msgstr "Medalie de bronz de viteză nouă"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:19
@@ -163,7 +163,7 @@ msgstr "Medalie de argint nouă"
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:21
 msgid "New silver speedrun medal"
-msgstr ""
+msgstr "Medalie de argint de viteză nouă"
 
 #. Shown in a notification when a new score medal is earned.
 #: /client/application/game/levels/medals.cpp:24
@@ -173,7 +173,7 @@ msgstr "Medalie de aur nouă"
 #. Shown in a notification when a new speedrun medal is earned.
 #: /client/application/game/levels/medals.cpp:26
 msgid "New gold speedrun medal"
-msgstr ""
+msgstr "Medalie de aur de viteză nouă"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:146
 msgid "You've been signed out."
@@ -185,19 +185,19 @@ msgstr "Nu s-a putut descărca backup-ul"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:276
 msgid "Failed to download achievements"
-msgstr ""
+msgstr "Nu s-au putut descărca realizările"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:320
 msgid "Failed to upload achievements"
-msgstr ""
+msgstr "Nu s-au putut posta realizările"
 
 #: /client/application/game/player_data/data_synchronizer.cpp:349
 msgid "Failed to download unlocked items"
-msgstr ""
+msgstr "Nu s-au putut descărca lucrurile deblocate"
 
 #: /client/application/game/player_data/data_synchronizer_new.cpp:196
 msgid "Failed to download data"
-msgstr ""
+msgstr "Nu s-au putut descărca datele"
 
 #. Shown in a notification when you improve your best score in a given level.
 #. Example of what it looks like: "New personal best! 1000 ⇨ 2000"
@@ -209,7 +209,7 @@ msgstr "Un nou record personal! %s ⇨ %s"
 #. level. Example of what it looks like: "Improved speed run! 50.43s ⇨ 40.43s"
 #: /client/application/game/player_data/player_data_manager.cpp:57
 msgid "Improved speed run! %s ⇨ %s"
-msgstr "Speedrun îmunătațit! %s ⇨ %s"
+msgstr "Timp îmunătațit! %s ⇨ %s"
 
 #. String shown in a notification when an achievement was unlocked.
 #. %s is replaced with the name of the achievement.
@@ -220,42 +220,42 @@ msgstr "Realizare Deblocată: %s"
 #. Describes the rarity level of items. Rarity level of 0.
 #: /client/application/game/player_data/player_unlocked_items.cpp:321
 msgid "Common"
-msgstr ""
+msgstr "Comun"
 
 #. Describes the rarity level of items. Rarity level of 1.
 #: /client/application/game/player_data/player_unlocked_items.cpp:323
 msgid "Uncommon"
-msgstr ""
+msgstr "Necomun"
 
 #. Describes the rarity level of items. Rarity level of 2.
 #: /client/application/game/player_data/player_unlocked_items.cpp:325
 msgid "Rare"
-msgstr ""
+msgstr "Rar"
 
 #. Describes the rarity level of items. Rarity level of 3.
 #: /client/application/game/player_data/player_unlocked_items.cpp:327
 msgid "Epic"
-msgstr ""
+msgstr "Epic"
 
 #. Describes the rarity level of items. Rarity level of 4.
 #: /client/application/game/player_data/player_unlocked_items.cpp:329
 msgid "Legendary"
-msgstr ""
+msgstr "Legendar"
 
 #. Describes the rarity level of items. Rarity level of 5.
 #: /client/application/game/player_data/player_unlocked_items.cpp:331
 msgid "Mythical"
-msgstr ""
+msgstr "Mitic"
 
 #. Describes the rarity level of items. Rarity level of 6.
 #: /client/application/game/player_data/player_unlocked_items.cpp:333
 msgid "Transcendent"
-msgstr ""
+msgstr "Transcendent"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:27
 msgid "Ship"
-msgstr ""
+msgstr "Navă"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:29
@@ -265,7 +265,7 @@ msgstr "Coadă"
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:31
 msgid "Bullet"
-msgstr ""
+msgstr "Glonț"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:33
@@ -275,7 +275,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:35
 msgid "Laser"
-msgstr ""
+msgstr "Laser"
 
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:37
@@ -285,7 +285,7 @@ msgstr ""
 #. Describes a type of unlockable item
 #: /client/application/game/player_data/player_unlocked_items.h:39
 msgid "UI Color"
-msgstr ""
+msgstr "Culoare UI"
 
 #: /client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
@@ -305,13 +305,13 @@ msgstr "Acuratețe: %s"
 #. for example "Total score: 43423"
 #: /client/application/game/state/game_state.cpp:516
 msgid "Total score: %s"
-msgstr ""
+msgstr "Scor total: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a number,
 #. for example "Pointonium: 34444"
 #: /client/application/game/state/game_state.cpp:520
 msgid "Pointonium: %s"
-msgstr ""
+msgstr "Pointonium: %s"
 
 #. Shown when the game is displaying stats. The %s is replaced with a
 #. duration, for example: "Duration: 1m43s"
@@ -327,22 +327,22 @@ msgstr "Sfârșit de joc"
 #. translation.
 #: /client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr ""
+msgstr "Ai pierdut. Din nou."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "Inserează un ban pentru a continua"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr ""
+msgstr "Ai încercat"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: /client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "E ok, nu ai fi câștigat oricum."
 
 #: /client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -355,12 +355,12 @@ msgstr "Continuă"
 #. Shown when the player failed to achieve an objective
 #: /client/application/game/ui/game_over_ui.cpp:92
 msgid "Failed"
-msgstr ""
+msgstr "Eșuat"
 
 #. Shown when the player successfully achieved an objective
 #: /client/application/game/ui/game_over_ui.cpp:98
 msgid "Success!"
-msgstr ""
+msgstr "Succes!"
 
 #: /client/application/game/ui/game_over_ui.cpp:113
 msgid "Exit"
@@ -648,17 +648,17 @@ msgstr ""
 #. The title of the screen that shows which level the player is at
 #: /client/application/game/ui/screens/screen_career.cpp:100
 msgid "Level %s"
-msgstr ""
+msgstr "Nivelul %s"
 
 #. Shown in the career screen. Underneath it, a
 #. summary of the completed deviations is shown.
 #: /client/application/game/ui/screens/screen_career.cpp:124
 msgid "Deviations completed"
-msgstr ""
+msgstr "Deviații completate"
 
 #: /client/application/game/ui/screens/screen_career.cpp:150
 msgid "Achievements"
-msgstr ""
+msgstr "Realizări"
 
 #: /client/application/game/ui/screens/screen_career.cpp:170
 msgid "XP leaderboard"
@@ -707,7 +707,7 @@ msgstr "Mare"
 #. The name of the graphics configuration that enables all the graphical effects.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:55
 msgid "Highest"
-msgstr ""
+msgstr "Cel mai mare"
 
 #. Title of the screen where graphics are configured.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:93
@@ -724,11 +724,11 @@ msgstr "pornit"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "minimal"
-msgstr ""
+msgstr "minim"
 
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:114
 msgid "advanced"
-msgstr ""
+msgstr "avansat"
 
 #. The name of the setting category for choosing the bloom (=glow) intensity.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:121
@@ -776,27 +776,27 @@ msgstr ""
 #. The color "black"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:186
 msgid "Black"
-msgstr ""
+msgstr "Negru"
 
 #. The color "blue"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:188
 msgid "Blue"
-msgstr ""
+msgstr "Albastru"
 
 #. The color "teal"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:190
 msgid "Teal"
-msgstr ""
+msgstr "Turcoaz"
 
 #. The color "green"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:192
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #. The color "pink"
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:194
 msgid "Pink"
-msgstr ""
+msgstr "Roz"
 
 #. The name of a setting category for choosing the background hue of the
 #. renderer.
@@ -807,22 +807,22 @@ msgstr ""
 #. Name of the setting for when the game is shown in a window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:213
 msgid "Windowed"
-msgstr ""
+msgstr "Fereastră"
 
 #. Name of the setting for when the game is shown in fullscreen.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:215
 msgid "Fullscreen"
-msgstr ""
+msgstr "Ecran complet"
 
 #. Name of the setting for when the game is shown in a borderless window.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:217
 msgid "Borderless"
-msgstr ""
+msgstr "Fereastră fără margini"
 
 #. Name of the category where you select Windowed mode or Fullscreen.
 #: /client/application/game/ui/screens/screen_configure_graphics.cpp:228
 msgid "Screen type"
-msgstr ""
+msgstr "Tip ecran"
 
 #. The title of the screen that allows selecting the graphical appearance of
 #. the touch joysticks.
@@ -852,13 +852,13 @@ msgstr "Tragere cu mouse-ul %s"
 #. example: "Quick Restart: Space".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:258
 msgid "Quick Restart: %s"
-msgstr ""
+msgstr "Restart rapid: %s"
 
 #. Used in the settings. The %s is replaced with the name of a key, for
 #. example: "Slow Down: Shift".
 #: /client/application/game/ui/screens/screen_configure_keyboard.cpp:262
 msgid "Slow Down: %s"
-msgstr ""
+msgstr "Încetinire: %s"
 
 #: /client/application/game/ui/screens/screen_configure_ship.cpp:55
 msgid "Configure Ship"
@@ -895,27 +895,27 @@ msgstr ""
 #. Title string for new World record Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:31
 msgid "New World Record"
-msgstr ""
+msgstr "Record Mondial Nou"
 
 #. Title string for new community level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:33
 msgid "New Level"
-msgstr ""
+msgstr "Nivel Nou"
 
 #. Title string for new comment on your level Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:35
 msgid "New comment on %s"
-msgstr ""
+msgstr "Comentariu nou pe %s"
 
 #. Title string for new comment on your profile Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:37
 msgid "New profile comment"
-msgstr ""
+msgstr "Comentariu nou pe profil"
 
 #. Title string for new reply on your comment Feed entries
 #: /client/application/game/ui/screens/screen_feed.cpp:39
 msgid "New reply to your comment on %s"
-msgstr ""
+msgstr "Răspuns nou la comentariul tău pe %s"
 
 #. Content string for new 1p World record Feed entries
 #. For example: 529625 in Asteroids, by thomed77
@@ -923,19 +923,19 @@ msgstr ""
 #. For example: 589320 in Eskiv, by JF, Lithium
 #: /client/application/game/ui/screens/screen_feed.cpp:47
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s pe %2$s, de către %3$s"
 
 #. Content string for new community level Feed entries
 #. For example: Eskiv 1024 (v32) was released
 #: /client/application/game/ui/screens/screen_feed.cpp:55
 msgid "%1$s (v%2$s) was released"
-msgstr ""
+msgstr "%1$s (v%2$s) a fost lansat"
 
 #. Content string for new comment Feed entries
 #. For example: JF wrote: "I love the feed!"
 #: /client/application/game/ui/screens/screen_feed.cpp:58
 msgid "%1$s wrote: \"%2$s\""
-msgstr ""
+msgstr "%1$s a scris: „%2$s”"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:547
 msgid "Global feed"
@@ -943,11 +943,11 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_feed.cpp:548
 msgid "Personal notifications"
-msgstr ""
+msgstr "Notificări personale"
 
 #: /client/application/game/ui/screens/screen_feed.cpp:684
 msgid "No notifications"
-msgstr ""
+msgstr "Nicio notificare"
 
 #. Content string for new 1p speedrun World record Feed entries
 #. For example: 1:33 in Symbiosis, by thomed77
@@ -956,7 +956,7 @@ msgstr ""
 #: /client/application/game/ui/screens/screen_feed.cpp:52
 msgctxt "speedrun"
 msgid "%1$s in %2$s, by %3$s"
-msgstr ""
+msgstr "%1$s pe %2$s, de către %3$s"
 
 #: /client/application/game/ui/screens/screen_informations.cpp:87
 msgid "Music"
@@ -972,7 +972,7 @@ msgstr ""
 #. library that are used in the game.
 #: /client/application/game/ui/screens/screen_informations.cpp:116
 msgid "Licenses"
-msgstr ""
+msgstr "Licențe"
 
 #. Shown in the information screen.
 #. Used in a button that redirects to discord server
@@ -990,49 +990,49 @@ msgstr "Videoclipuri de developare"
 #. items.
 #: /client/application/game/ui/screens/screen_inventory.cpp:89
 msgid "All"
-msgstr ""
+msgstr "Toate"
 
 #. The string shown in the header of the screen where you select which
 #. items you want. The items include: the ship, the trail, the
 #. bullets, the joysticks, the ui color, etc...
 #: /client/application/game/ui/screens/screen_inventory.cpp:224
 msgid "Inventory"
-msgstr ""
+msgstr "Inventar"
 
 #. The title of the screen to save the ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:105
 msgid "Save ship configuration"
-msgstr ""
+msgstr "Salvează configurație navă"
 
 #. The content of the button to save
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:109
 msgid "Save"
-msgstr ""
+msgstr "Salvează"
 
 #. Shown in a notification
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:137
 msgid "Configuration saved"
-msgstr ""
+msgstr "Configurație salvată"
 
 #. Shown when asking for a ship configuration
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:160
 msgid "Enter configuration name"
-msgstr ""
+msgstr "Introdu nume configurație"
 
 #. Title of the screen where you choose which configuration to load
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:177
 msgid "Load ship configuration"
-msgstr ""
+msgstr "Incarcă configurație navă"
 
 #. Shown in a notification when the configuration loaded has no name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:243
 msgid "loaded ship configuration"
-msgstr ""
+msgstr "s-a încărcat configurație navă"
 
 #. Shown in a notification when the configuration loaded has a name
 #: /client/application/game/ui/screens/screen_inventory_load_and_save.cpp:246
 msgid "loaded <%s>"
-msgstr ""
+msgstr "s-a încărcat <%s>"
 
 #: /client/application/game/ui/screens/screen_lan_create_or_join.cpp:36
 msgid "Local multiplayer"
@@ -1255,7 +1255,7 @@ msgstr "Oficial"
 #. The title of the screen where you select what to play in the World.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:44
 msgid "World"
-msgstr ""
+msgstr "Lume"
 
 #. The title of the screen where you select what sandbox to play.
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:46
@@ -1341,15 +1341,15 @@ msgstr ""
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:199
 msgid "Official levels information"
-msgstr ""
+msgstr "Informație nivele oficiale"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:204
 msgid "Community levels information"
-msgstr ""
+msgstr "Informație nivele comunitate"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:209
 msgid "World information"
-msgstr ""
+msgstr "informație lume"
 
 #: /client/application/game/ui/screens/screen_select_single_player_level.cpp:214
 msgid "Sandbox information"
@@ -1371,7 +1371,7 @@ msgstr "Setări"
 #. graphics settings.
 #: /client/application/game/ui/screens/screen_settings.cpp:44
 msgid "Graphics"
-msgstr ""
+msgstr "Grafici"
 
 #: /client/application/game/ui/screens/screen_settings.cpp:54
 msgid "Controls"
@@ -1469,7 +1469,7 @@ msgstr "Pauză Rapidă"
 #. example of a status: "Pablo Picasso -- playing Eskiv".
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:169
 msgid "Steam status"
-msgstr ""
+msgstr "Status Steam"
 
 #. The description of the setting that allows players to toggle on or off
 #. the floating text message in-game.
@@ -1487,7 +1487,7 @@ msgstr "Mărimea Interfeței: %s"
 #. example: "UI Inset: 4%"
 #: /client/application/game/ui/screens/screen_settings_ui.cpp:268
 msgid "UI Inset: %s"
-msgstr ""
+msgstr "Inset UI: %s"
 
 #: /client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
@@ -1517,21 +1517,21 @@ msgstr "Tutorial"
 #. item it is. Ship, trail, bullet, etc...
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:93
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 #. Shown in the descripting of the item. "name" refers to what name the
 #. item has.
 #. For example "alpha', "rival", etc...
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:97
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 #. Shown in the descripting of the item. "rarity" refers to what the
 #. rarity of the item
 #. is. For example, "common", "rare", etc...
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:101
 msgid "Rarity"
-msgstr ""
+msgstr "Raritate"
 
 #. Title of the screen that shows the UI to unlock items
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:237
@@ -1546,7 +1546,7 @@ msgstr ""
 #. Shown in a string when no items can be unlocked
 #: /client/application/game/ui/screens/screen_unlock_items.cpp:273
 msgid "No items to unlock"
-msgstr ""
+msgstr "Nimic de deblocat"
 
 #. Shown in a string when there's 1 or more items that can be unlocked.
 #. The %s is replaced with a number
@@ -1577,7 +1577,7 @@ msgstr "Se postează scorul pentru %s."
 #. Shown when a user disables comments on their profile and or levels.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:205
 msgid "Comments are disabled."
-msgstr ""
+msgstr "Comentariile sunt dezactivate."
 
 #. The title of the screen where players delete comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:265
@@ -1614,7 +1614,7 @@ msgstr "Eroare raportând comentariul"
 
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgid "No comments"
-msgstr ""
+msgstr "Niciun comentariu"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: /client/application/game/ui/screens/screen_view_and_add_comments.cpp:480
@@ -1692,7 +1692,7 @@ msgstr "Nu"
 #. Replies to "Hello this is my comment"
 #: /client/application/game/ui/screens/screen_view_and_add_comments.h:19
 msgid "Replies to \"%s\""
-msgstr ""
+msgstr "Răspunsuri la „%s”"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:29
 msgid "Africa"
@@ -1736,11 +1736,11 @@ msgstr "lume"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:145
 msgid "high scores"
-msgstr ""
+msgstr "scor"
 
 #: /client/application/game/ui/screens/screen_view_leaderboards.cpp:146
 msgid "speed runs"
-msgstr ""
+msgstr "timp"
 
 #: /client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "World record: %s"
@@ -1770,24 +1770,24 @@ msgstr "Nivel experimental"
 #. version number. For example: "version 2"
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:36
 msgid "version %s"
-msgstr ""
+msgstr "versiunea %s"
 
 #. Used for showing the release date of a level. The %s will be replaced with
 #. a date. For example: "released 01/02/03"
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:39
 msgid "released %s"
-msgstr ""
+msgstr "lansat %s"
 
 #. Used if the level does not contain any information.
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:41
 msgid "No information available"
-msgstr ""
+msgstr "Nicio informație valabilă"
 
 #. Used for showing the percentage of people who managed to get a gold medal
 #. for a given level.
 #: /client/application/game/ui/screens/screen_view_level_info.cpp:44
 msgid "Gold medals percentage: %s"
-msgstr ""
+msgstr "Procentaj medalii de aur: %s"
 
 #: /client/application/game/ui/screens/screen_watch_replay.cpp:83
 msgid "Failed to read replay."
@@ -1832,12 +1832,12 @@ msgstr "Nu s-a putut conecta!"
 #. Describes the lowest difficutly setting (1/3)
 #: /client/application/game/ui/shared_strings.cpp:40
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. Describes the mid difficulty setting (2/3)
 #: /client/application/game/ui/shared_strings.cpp:45
 msgid "Hard"
-msgstr ""
+msgstr "Greu"
 
 #. Describes the highest difficutly setting (3/3)
 #: /client/application/game/ui/shared_strings.cpp:50
@@ -1849,17 +1849,17 @@ msgstr ""
 #. "Era 2 medals and stars"
 #: /client/application/game/ui/views/account_view.cpp:384
 msgid "Era %s medals and stars"
-msgstr ""
+msgstr "Medalii și stele din era %s"
 
 #. Error shown when downloading some piece of data failed.
 #: /client/application/game/ui/views/account_view.cpp:533
 msgid "Download error"
-msgstr ""
+msgstr "Eroare descărcare"
 
 #. Shown when the downloading of some piece of data is in progress.
 #: /client/application/game/ui/views/account_view.cpp:535
 msgid "Downloading..."
-msgstr ""
+msgstr "Se descarcă"
 
 #. Used in a button. When pressed, shows the levels that a player has
 #. created.
@@ -1896,7 +1896,7 @@ msgstr "Data creării: %s"
 #: /client/application/game/ui/views/account_view.cpp:339
 msgctxt "account_view"
 msgid "Level: %s"
-msgstr ""
+msgstr "Nivel:"
 
 #: /client/application/game/ui/views/community_level_selector.cpp:307
 msgid "IN REVIEW"
@@ -1927,17 +1927,17 @@ msgstr ""
 #. Shown in the button that allows users to sort by date
 #: /client/application/game/ui/views/sort_button.cpp:31
 msgid "Date"
-msgstr ""
+msgstr "Dată"
 
 #. Shown in the button that allows users to sort by stars
 #: /client/application/game/ui/views/sort_button.cpp:35
 msgid "Stars"
-msgstr ""
+msgstr "Stele"
 
 #. Shown in the button that allows users to sort by difficutly
 #: /client/application/game/ui/views/sort_button.cpp:39
 msgid "Difficulty"
-msgstr ""
+msgstr "Dificultate"
 
 #: /client/application/game/ui/views/top_notification_view.cpp:56
 msgid "%sWaiting for other player%s"
@@ -1946,7 +1946,7 @@ msgstr "%sSe așteaptă un alt jucător%s"
 #. The label shown in the button used to enter the World.
 #: /client/application/game/ui/views/world_selector.cpp:176
 msgid "Enter World"
-msgstr ""
+msgstr "Intră în Lume"
 
 #: /client/application/ui/keyboard_view.cpp:111
 msgid "ok"
@@ -1955,12 +1955,12 @@ msgstr "ok"
 #. The color "red"
 #: /client/application/ui/ui_skin.cpp:34
 msgid "Red"
-msgstr ""
+msgstr "Roșu"
 
 #. The color "cyan"
 #: /client/application/ui/ui_skin.cpp:37
 msgid "Cyan"
-msgstr ""
+msgstr "Cyan"
 
 #. The color "lime"
 #: /client/application/ui/ui_skin.cpp:40
@@ -1980,27 +1980,27 @@ msgstr ""
 #. The color "orange"
 #: /client/application/ui/ui_skin.cpp:52
 msgid "Orange"
-msgstr ""
+msgstr "Portocaliu"
 
 #. The color "white"
 #: /client/application/ui/ui_skin.cpp:55
 msgid "White"
-msgstr ""
+msgstr "Alb"
 
 #. The color "gray"
 #: /client/application/ui/ui_skin.cpp:58
 msgid "Gray"
-msgstr ""
+msgstr "Gri"
 
 #. The color "dark blue"
 #: /client/application/ui/ui_skin.cpp:61
 msgid "Dark Blue"
-msgstr ""
+msgstr "Albastru Închis"
 
 #. The color "yellow"
 #: /client/application/ui/ui_skin.cpp:64
 msgid "Yellow"
-msgstr ""
+msgstr "Galben"
 
 #. The UI color "frosted green"
 #: /client/application/ui/ui_skin.cpp:67
